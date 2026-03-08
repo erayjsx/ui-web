@@ -1,4 +1,4 @@
-# ui-web-react
+# @nut/react
 
 ## 1.0.0
 

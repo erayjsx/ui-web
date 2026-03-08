@@ -1,1 +1,1 @@
-export const packageName = "ui-web";
+export const packageName = "@nut/web";
