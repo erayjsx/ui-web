@@ -1,5 +1,5 @@
 {
-  "name": "@ui-web",
+  "name": "@erayjsx/ui-web",
   "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",
