@@ -1,5 +1,5 @@
 {
-  "name": "@nut/web",
+  "name": "@korui/web",
   "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",

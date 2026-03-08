@@ -1,4 +1,4 @@
-# @nut/web
+# @korui/web
 
 ## 1.0.0
 

@@ -1,1 +1,1 @@
-export const packageName = "@nut/react";
+export const packageName = "@korui/react";

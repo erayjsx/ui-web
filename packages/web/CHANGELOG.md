@@ -1,4 +1,4 @@
-# @nut/react
+# @korui/react
 
 ## 1.0.0
 
