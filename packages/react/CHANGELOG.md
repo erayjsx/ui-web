@@ -1,4 +1,4 @@
-# @erayjsx/ui-web
+# ui-web
 
 ## 1.0.0
 

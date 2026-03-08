@@ -1,4 +1,4 @@
-# @erayjsx/ui-web-react
+# ui-web-react
 
 ## 1.0.0
 

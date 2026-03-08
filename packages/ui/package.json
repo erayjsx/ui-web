@@ -1,5 +1,5 @@
 {
-  "name": "@erayjsx/ui-web-react",
+  "name": "ui-web-react",
   "version": "1.0.0",
   "private": false,
   "main": "dist/index.js",

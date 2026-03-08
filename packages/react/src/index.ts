@@ -1,1 +1,1 @@
-export const packageName = "@erayjsx/ui-web";
+export const packageName = "ui-web";
