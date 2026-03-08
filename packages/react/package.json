@@ -1,6 +1,6 @@
 {
   "name": "@ui-web",
-  "version": "0.1.0",
+  "version": "0.0.1",
   "private": false,
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -8,7 +8,7 @@
     "dist"
   ],
   "scripts": {
-    "build": "tsc && vite build"
+    "build": "tsc -p tsconfig.json"
   },
   "publishConfig": {
     "access": "public"
